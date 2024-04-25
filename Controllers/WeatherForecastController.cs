@@ -8,7 +8,7 @@ namespace AspNetCore_Prueba.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm2","Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Balmy", "Hot", "Scorching","Warm"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
